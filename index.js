@@ -8,8 +8,6 @@ server.use(express.json());
 //Route params = /users/1
 //Request body = { name: "Thiago", "email": thiagopap@gmail.com }
 
-//localhost:3000/users/12345
-
 //CRUD - Create, Read, Update, Delete
 
 const users = ["Thiago", "Diego", "Robson"];
